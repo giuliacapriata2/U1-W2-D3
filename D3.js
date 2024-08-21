@@ -162,7 +162,7 @@ for (let i = 0; i < starWarsCharacters.length; i++) {
 
   }
 }
-console.log(ey)
+console.log(eye_color)
 
 
 /* ESERCIZIO 6
